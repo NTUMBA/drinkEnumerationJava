@@ -1,0 +1,2 @@
+# drinkEnumerationJava
+java enumeration Abstract 
